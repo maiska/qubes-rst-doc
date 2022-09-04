@@ -1,0 +1,8 @@
+[submodule "attachment"]
+	path = attachment
+	url = https://github.com/maiska/qubes-attachment.rtd
+	branch = qubes-rst-doc
+[submodule "_translated"]
+	path = _translated
+	url = https://github.com/maiska/qubes-translated.git
+	branch = qubes-rst-doc
